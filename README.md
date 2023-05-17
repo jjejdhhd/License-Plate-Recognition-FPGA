@@ -1,6 +1,6 @@
 # 基于FPGA进行车牌识别
 
-[toc]
+@[toc]
 
 
 本项目的原理讲解视频已经上传到B站“[基于FPGA进行车牌识别](https://www.bilibili.com/video/BV1rM4y1t7Gi/)”。
