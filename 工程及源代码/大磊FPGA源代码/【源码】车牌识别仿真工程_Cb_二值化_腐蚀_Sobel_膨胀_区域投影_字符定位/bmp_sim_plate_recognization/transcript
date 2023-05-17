@@ -1,0 +1,88 @@
+# Compile of VIP_RGB888_YCbCr444.v was successful.
+# Compile of bmp_sim_VIP_tb.v was successful.
+# Compile of SQRT.v was successful.
+# Compile of VIP_Sobel_Edge_Detector.v was successful.
+# Compile of Line_Shift_RAM_8Bit.v was successful.
+# Compile of Median_Filter_3X3.v was successful.
+# Compile of Sort3.v was successful.
+# Compile of VIP_Gray_Median_Filter.v was successful.
+# Compile of VIP_Matrix_Generate_3X3_8Bit.v was successful.
+# Compile of binarization.v was successful.
+# Compile of VIP_Matrix_Generate_3X3_1Bit.v was successful.
+# Compile of Line_Shift_RAM_1Bit.v was successful.
+# Compile of VIP_Bit_Erosion_Detector.v was successful.
+# Compile of VIP_Bit_Dilation_Detector.v was successful.
+# Compile of ram.v was successful.
+# Compile of lcd_display.v was successful.
+# Compile of video_driver.v was successful.
+# Compile of VIP_horizon_projection.v was successful.
+# Compile of VIP_vertical_projection.v was successful.
+# Compile of plate_boarder_adjust.v was successful.
+# 20 compiles, 0 failed with no errors.
+vsim -gui -L altera_mf -novopt work.bmp_sim_VIP_tb
+# vsim -gui F:\project\Plate_Recognization\simulation\bmp_sim_plate_recognization\bmp_sim_VIP_tb.mpf 
+# Start time: 10:04:50 on Mar 12,2021
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.bmp_sim_VIP_tb
+# Loading work.bmp_sim_VIP_tb
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.VIP_RGB888_YCbCr444
+# Loading work.VIP_RGB888_YCbCr444
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.binarization
+# Loading work.binarization
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.VIP_Bit_Erosion_Detector
+# Loading work.VIP_Bit_Erosion_Detector
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.VIP_Matrix_Generate_3X3_1Bit
+# Loading work.VIP_Matrix_Generate_3X3_1Bit
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.Line_Shift_RAM_1Bit
+# Loading work.Line_Shift_RAM_1Bit
+# Loading altera_mf.altshift_taps
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.VIP_Sobel_Edge_Detector
+# Loading work.VIP_Sobel_Edge_Detector
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.VIP_Matrix_Generate_3X3_8Bit
+# Loading work.VIP_Matrix_Generate_3X3_8Bit
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.Line_Shift_RAM_8Bit
+# Loading work.Line_Shift_RAM_8Bit
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.SQRT
+# Loading work.SQRT
+# Loading altera_mf.altsqrt
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.VIP_Bit_Dilation_Detector
+# Loading work.VIP_Bit_Dilation_Detector
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.VIP_vertical_projection
+# Loading work.VIP_vertical_projection
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.ram
+# Loading work.ram
+# Loading altera_mf.altsyncram
+# Loading altera_mf.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf.ALTERA_MF_MEMORY_INITIALIZATION
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.VIP_horizon_projection
+# Loading work.VIP_horizon_projection
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.plate_boarder_adjust
+# Loading work.plate_boarder_adjust
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.video_driver
+# Loading work.video_driver
+# Refreshing F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/work.lcd_display
+# Loading work.lcd_display
+# ** Warning: (vsim-3015) F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v(356): [PCDPC] - Port size (8) does not match connection size (32) for port 'Binary_Threshold'. The port definition is at: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/binarization/binarization.v(16).
+#    Time: 0 ps  Iteration: 0  Instance: /bmp_sim_VIP_tb/u_VIP_Gray_Median_Filter_1 File: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/binarization/binarization.v
+# ** Warning: (vsim-3015) F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v(485): [PCDPC] - Port size (8) does not match connection size (32) for port 'Sobel_Threshold'. The port definition is at: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/VIP_Sobel_Edge_Detector.v(57).
+#    Time: 0 ps  Iteration: 0  Instance: /bmp_sim_VIP_tb/u_VIP_Sobel_Edge_Detector File: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/VIP_Sobel_Edge_Detector.v
+# ** Warning: (vsim-3015) F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v(552): [PCDPC] - Port size (10) does not match connection size (32) for port 'vertical_start'. The port definition is at: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_vertical_projection.v(27).
+#    Time: 0 ps  Iteration: 0  Instance: /bmp_sim_VIP_tb/u_VIP_vertical_projection File: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_vertical_projection.v
+# ** Warning: (vsim-3015) F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v(552): [PCDPC] - Port size (10) does not match connection size (32) for port 'vertical_end'. The port definition is at: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_vertical_projection.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /bmp_sim_VIP_tb/u_VIP_vertical_projection File: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_vertical_projection.v
+# ** Warning: (vsim-3015) F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v(593): [PCDPC] - Port size (10) does not match connection size (32) for port 'horizon_start'. The port definition is at: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_horizon_projection.v(27).
+#    Time: 0 ps  Iteration: 0  Instance: /bmp_sim_VIP_tb/u_VIP_horizon_projection File: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_horizon_projection.v
+# ** Warning: (vsim-3015) F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v(593): [PCDPC] - Port size (10) does not match connection size (32) for port 'horizon_end'. The port definition is at: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_horizon_projection.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /bmp_sim_VIP_tb/u_VIP_horizon_projection File: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_horizon_projection.v
+# ** Warning: (vsim-3015) F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v(678): [PCDPC] - Port size (10) does not match connection size (11) for port 'pixel_xpos'. The port definition is at: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/lcd_display.v(11).
+#    Time: 0 ps  Iteration: 0  Instance: /bmp_sim_VIP_tb/u_lcd_display File: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/lcd_display.v
+# ** Warning: (vsim-3015) F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v(678): [PCDPC] - Port size (10) does not match connection size (11) for port 'pixel_ypos'. The port definition is at: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/lcd_display.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /bmp_sim_VIP_tb/u_lcd_display File: F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/lcd_display.v
+run
+# Warning: read_during_write_mode_mixed_ports is assumed as               OLD_DATA
+# Time: 0  Instance: bmp_sim_VIP_tb.u_VIP_vertical_projection.u_projection_ram.altsyncram_component
+# Warning: read_during_write_mode_mixed_ports is assumed as               OLD_DATA
+# Time: 0  Instance: bmp_sim_VIP_tb.u_VIP_horizon_projection.u_projection_ram.altsyncram_component
+# End time: 10:06:27 on Mar 12,2021, Elapsed time: 0:01:37
+# Errors: 0, Warnings: 9

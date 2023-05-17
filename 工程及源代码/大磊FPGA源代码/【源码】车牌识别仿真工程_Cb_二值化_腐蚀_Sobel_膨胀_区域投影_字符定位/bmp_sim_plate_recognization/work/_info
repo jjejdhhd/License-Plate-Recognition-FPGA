@@ -1,0 +1,470 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/project/bmp_sim_median_filter
+vbinarization
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 SXHAFPcl9Q8]Aj:C]g;MW2
+IRc=CIIh??`]2QE_eXJVn52
+Z1 dF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization
+w1615017136
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/binarization/binarization.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/binarization/binarization.v
+L0 2
+Z2 OL;L;10.4;61
+!s108 1615514656.566000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/binarization/binarization.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/binarization/binarization.v|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vbmp_sim_VIP_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 V:6z@>=DAl5UY<@No_RlK3
+I_ng]hMU14i7TkhB9I3KV<3
+R1
+w1615514651
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v
+L0 4
+R2
+!s108 1615514655.924000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v|
+!i113 0
+R3
+nbmp_sim_@v@i@p_tb
+vlcd_display
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 CLOF[izUcWHjB682T09`=3
+I`MPi1]h5=?GX2K[CPGXe`2
+R1
+w1615358334
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/lcd_display.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/lcd_display.v
+L0 7
+R2
+!s108 1615514657.131000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/lcd_display.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/lcd_display.v|
+!i113 0
+R3
+vLine_Shift_RAM_1Bit
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 IV5DCL41T7HL<ZJ7ii`6M2
+IJ]ISST8kX0XncJRcaShdS1
+R1
+Z4 w1597850388
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/Line_Shift_RAM_1Bit.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/Line_Shift_RAM_1Bit.v
+Z5 L0 39
+R2
+!s108 1615514656.726000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/Line_Shift_RAM_1Bit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/Line_Shift_RAM_1Bit.v|
+!i113 0
+R3
+n@line_@shift_@r@a@m_1@bit
+vLine_Shift_RAM_8Bit
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 @N2Uok3nUKWlz;2QPa:FI1
+Id=81oXGF;>AgBdQjX[U<c3
+R1
+w1615279465
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Line_Shift_RAM_8Bit.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Line_Shift_RAM_8Bit.v
+R5
+R2
+!s108 1615514656.189000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Line_Shift_RAM_8Bit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Line_Shift_RAM_8Bit.v|
+!i113 0
+R3
+n@line_@shift_@r@a@m_8@bit
+vMedian_Filter_3X3
+Z6 !s110 1615514656
+!i10b 1
+!s100 lP:E0I1J38B^4i8>c=jQH3
+I]RD>Gz<lgdN::z`@OT>II1
+R0
+R1
+Z7 w1492823990
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Median_Filter_3X3.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Median_Filter_3X3.v
+Z8 L0 31
+R2
+r1
+!s85 0
+31
+!s108 1615514656.260000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Median_Filter_3X3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Median_Filter_3X3.v|
+!i113 0
+R3
+n@median_@filter_3@x3
+vplate_boarder_adjust
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 8?=37dXdY8fKO;CJK27m31
+IoF<RUoVN0mi98WMn;gT952
+R1
+w1615456967
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/plate_boarder_adjust.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/plate_boarder_adjust.v
+L0 3
+R2
+!s108 1615514657.444000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/plate_boarder_adjust.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/plate_boarder_adjust.v|
+!i113 0
+R3
+vram
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 _`FMYH?885aA>A@l74fbg0
+IaV6G[c_I:Zd9;NUjOi^lA2
+R1
+w1615343480
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/ram.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/ram.v
+R5
+R2
+!s108 1615514657.058000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/ram.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/ram.v|
+!i113 0
+R3
+vSort3
+R6
+!i10b 1
+!s100 ;Q306=k2C8YR;aBWZBRKL1
+Ie<1KIQcIEgN1j9ZLh6iSB1
+R0
+R1
+R7
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Sort3.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Sort3.v
+Z9 L0 32
+R2
+r1
+!s85 0
+31
+!s108 1615514656.330000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Sort3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Sort3.v|
+!i113 0
+R3
+n@sort3
+vSQRT
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Yn:I==TU5jRJn;>EeA_cb0
+I7H>=lXBjf0ghd=G6[:<Nk2
+R1
+R7
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/SQRT.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/SQRT.v
+R5
+R2
+!s108 1615514656.026000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/SQRT.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/SQRT.v|
+!i113 0
+R3
+n@s@q@r@t
+vvideo_driver
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 hDQ:>k5eC]Gen9?;hzRa_0
+IXC0KVJ55KcUmJRSLZ9bJ;3
+R1
+w1612493906
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/video_driver.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/video_driver.v
+L0 24
+R2
+!s108 1615514657.203000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/video_driver.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/video_driver.v|
+!i113 0
+R3
+vVIP_Bit_Dilation_Detector
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 i2@dMGf_n>h[:9FmRA_@O1
+IjiKgKK]kN1HE?A`6A9Il`1
+R1
+R4
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/dilation/VIP_Bit_Dilation_Detector.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/dilation/VIP_Bit_Dilation_Detector.v
+Z10 L0 34
+R2
+!s108 1615514656.977000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/dilation/VIP_Bit_Dilation_Detector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/dilation/VIP_Bit_Dilation_Detector.v|
+!i113 0
+R3
+n@v@i@p_@bit_@dilation_@detector
+vVIP_Bit_Erosion_Detector
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 g3ZY7ijAm7zSR3BeIol1g0
+ICU>j]oT0GRLPS9GTTFjz=1
+R1
+R4
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/VIP_Bit_Erosion_Detector.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/VIP_Bit_Erosion_Detector.v
+R10
+R2
+!s108 1615514656.891000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/VIP_Bit_Erosion_Detector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/VIP_Bit_Erosion_Detector.v|
+!i113 0
+R3
+n@v@i@p_@bit_@erosion_@detector
+vVIP_Gray_Median_Filter
+R6
+!i10b 1
+!s100 <O`zXYcIGWm_:SJb>0k;20
+IN_RD6jEiFKnKCj=oe<TN43
+R0
+R1
+R7
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/VIP_Gray_Median_Filter.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/VIP_Gray_Median_Filter.v
+R8
+R2
+r1
+!s85 0
+31
+!s108 1615514656.401000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/VIP_Gray_Median_Filter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/VIP_Gray_Median_Filter.v|
+!i113 0
+R3
+n@v@i@p_@gray_@median_@filter
+vVIP_h_dilation
+Z11 !s110 1615341449
+!i10b 1
+!s100 KoY4`_N8n`FIIh7z_7Pm_1
+IbX5@UKh`gZ[ecN6ed9fE01
+R0
+R1
+w1615339417
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_h_dilation.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_h_dilation.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1615341449.919000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_h_dilation.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_h_dilation.v|
+!i113 0
+R3
+n@v@i@p_h_dilation
+vVIP_horizon_projection
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 idLO;_gJ0To]<cdbO`aea1
+IcG^LVRTARiY:F0G4@TTj^3
+R1
+w1615514058
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_horizon_projection.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_horizon_projection.v
+L0 2
+R2
+!s108 1615514657.284000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_horizon_projection.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_horizon_projection.v|
+!i113 0
+R3
+n@v@i@p_horizon_projection
+vVIP_Matrix_Generate_3X3_1Bit
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 l?JaHNFz44H?gHBI0a<W;0
+ILRknLYa7E3:_Jo_`GBDoc0
+R1
+R4
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/VIP_Matrix_Generate_3X3_1Bit.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/VIP_Matrix_Generate_3X3_1Bit.v
+R10
+R2
+!s108 1615514656.649000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/VIP_Matrix_Generate_3X3_1Bit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/VIP_Matrix_Generate_3X3_1Bit.v|
+!i113 0
+R3
+n@v@i@p_@matrix_@generate_3@x3_1@bit
+vVIP_Matrix_Generate_3X3_8Bit
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?J_5FjC9OXo6b;o;mNa4B0
+IAOW>W[c=n>iQoGKhR2feE0
+R1
+w1612691846
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/VIP_Matrix_Generate_3X3_8Bit.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/VIP_Matrix_Generate_3X3_8Bit.v
+R10
+R2
+!s108 1615514656.472000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/VIP_Matrix_Generate_3X3_8Bit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/VIP_Matrix_Generate_3X3_8Bit.v|
+!i113 0
+R3
+n@v@i@p_@matrix_@generate_3@x3_8@bit
+vVIP_projection
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 7`@XE<H_2z_h0J7CM^j323
+IWiY^>nT<]e6eT5a0RmPOS3
+R1
+w1615347468
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_projection.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_projection.v
+L0 2
+R2
+!s108 1615356250.937000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_projection.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_projection.v|
+!i113 0
+R3
+n@v@i@p_projection
+vVIP_RGB888_YCbCr444
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 @fJV1KPR6@BQ;IfTd;Q4F3
+Ie=2804W:JzY7P?C_6M;@f1
+R1
+R7
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/VIP_RGB888_YCbCr444.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/VIP_RGB888_YCbCr444.v
+R9
+R2
+!s108 1615514655.859000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/VIP_RGB888_YCbCr444.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/VIP_RGB888_YCbCr444.v|
+!i113 0
+R3
+n@v@i@p_@r@g@b888_@y@cb@cr444
+vVIP_Sobel_Edge_Detector
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?bFkkHL]I_liP3[>oLhm_1
+I^;bjLU@E=5`>CkjeSK[b21
+R1
+R7
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/VIP_Sobel_Edge_Detector.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/VIP_Sobel_Edge_Detector.v
+R10
+R2
+!s108 1615514656.109000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/VIP_Sobel_Edge_Detector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/VIP_Sobel_Edge_Detector.v|
+!i113 0
+R3
+n@v@i@p_@sobel_@edge_@detector
+vVIP_v_dilation
+R11
+!i10b 1
+!s100 Fa:6G5aRdEoJH]6zOZS=I2
+IcfBkXV5am`Qdoh3Yj70Ui3
+R0
+R1
+w1615339425
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_v_dilation.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_v_dilation.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1615341449.833000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_v_dilation.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_v_dilation.v|
+!i113 0
+R3
+n@v@i@p_v_dilation
+vVIP_vertical_projection
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Z:IH?eH7EkP_zJ3zhgPI=3
+IR2K``WQhQn;JfKK29VS:@0
+R1
+w1615513767
+8F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_vertical_projection.v
+FF:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_vertical_projection.v
+L0 2
+R2
+!s108 1615514657.357000
+!s107 F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_vertical_projection.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_vertical_projection.v|
+!i113 0
+R3
+n@v@i@p_vertical_projection

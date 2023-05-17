@@ -1,0 +1,141 @@
+F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/VIP_RGB888_YCbCr444.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/VIP_RGB888_YCbCr444.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module VIP_RGB888_YCbCr444
+
+Top level modules:
+	VIP_RGB888_YCbCr444
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/VIP_Matrix_Generate_3X3_1Bit.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/VIP_Matrix_Generate_3X3_1Bit.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module VIP_Matrix_Generate_3X3_1Bit
+
+Top level modules:
+	VIP_Matrix_Generate_3X3_1Bit
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_vertical_projection.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_vertical_projection.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module VIP_vertical_projection
+
+Top level modules:
+	VIP_vertical_projection
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Sort3.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Sort3.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Sort3
+
+Top level modules:
+	Sort3
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/VIP_Gray_Median_Filter.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/VIP_Gray_Median_Filter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module VIP_Gray_Median_Filter
+
+Top level modules:
+	VIP_Gray_Median_Filter
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/Line_Shift_RAM_1Bit.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/Line_Shift_RAM_1Bit.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Line_Shift_RAM_1Bit
+
+Top level modules:
+	Line_Shift_RAM_1Bit
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/plate_boarder_adjust.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/plate_boarder_adjust.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module plate_boarder_adjust
+
+Top level modules:
+	plate_boarder_adjust
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/binarization/binarization.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/binarization/binarization.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module binarization
+
+Top level modules:
+	binarization
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/bmp_sim_VIP_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module bmp_sim_VIP_tb
+
+Top level modules:
+	bmp_sim_VIP_tb
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/lcd_display.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/lcd_display.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module lcd_display
+
+Top level modules:
+	lcd_display
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/SQRT.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/SQRT.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module SQRT
+
+Top level modules:
+	SQRT
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/video_driver.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/display/video_driver.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module video_driver
+
+Top level modules:
+	video_driver
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Line_Shift_RAM_8Bit.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Line_Shift_RAM_8Bit.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Line_Shift_RAM_8Bit
+
+Top level modules:
+	Line_Shift_RAM_8Bit
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_horizon_projection.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/VIP_horizon_projection.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module VIP_horizon_projection
+
+Top level modules:
+	VIP_horizon_projection
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/VIP_Bit_Erosion_Detector.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/erosion/VIP_Bit_Erosion_Detector.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module VIP_Bit_Erosion_Detector
+
+Top level modules:
+	VIP_Bit_Erosion_Detector
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/VIP_Sobel_Edge_Detector.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/sobel/VIP_Sobel_Edge_Detector.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module VIP_Sobel_Edge_Detector
+
+Top level modules:
+	VIP_Sobel_Edge_Detector
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/dilation/VIP_Bit_Dilation_Detector.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/dilation/VIP_Bit_Dilation_Detector.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module VIP_Bit_Dilation_Detector
+
+Top level modules:
+	VIP_Bit_Dilation_Detector
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/ram.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/projection/ram.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Median_Filter_3X3.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/Median_Filter_3X3.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Median_Filter_3X3
+
+Top level modules:
+	Median_Filter_3X3
+
+} {} {}} F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/VIP_Matrix_Generate_3X3_8Bit.v {1 {vlog -work work -vopt -stats=none F:/project/Plate_Recognization/simulation/bmp_sim_plate_recognization/VIP/median/VIP_Matrix_Generate_3X3_8Bit.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module VIP_Matrix_Generate_3X3_8Bit
+
+Top level modules:
+	VIP_Matrix_Generate_3X3_8Bit
+
+} {} {}}
