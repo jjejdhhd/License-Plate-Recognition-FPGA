@@ -11,6 +11,7 @@
 ***
 
 ## 1. 文件说明
+小技巧：下载整个Github文件夹：http://tool.mkblog.cn/downgit/#/home
 
 **1. 工程及源代码**
 里面包含了大磊FPGA的源代码，以及我自己的源代码。
