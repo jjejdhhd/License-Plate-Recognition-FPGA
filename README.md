@@ -113,5 +113,9 @@
 > 3. 奇怪的硬件bug：上电后工作完全正常，但是过个两三分钟画面就会卡住不动了。最后我也不知道咋回事，打算第二天再看，结果第二天这个问题就突然好了。:joy:
 
 最后放一下成果展示：
+<video width="320" height="240" controls>
+    <source src="https://raw.githubusercontent.com/jjejdhhd/License-Plate-Recognition-FPGA/main/%E5%9B%BE%E5%BA%93/0-%E6%88%90%E6%9E%9C%E5%B1%95%E7%A4%BA-%E6%9C%BA%E4%BD%8D1.mp4" type="video/mp4">
+</video>
+
 <img src="https://raw.githubusercontent.com/jjejdhhd/License-Plate-Recognition-FPGA/main/%E5%9B%BE%E5%BA%93/0-%E6%88%90%E6%9E%9C%E5%B1%95%E7%A4%BA-%E6%9C%BA%E4%BD%8D1.mp4" width=49%>
 <img src="https://raw.githubusercontent.com/jjejdhhd/License-Plate-Recognition-FPGA/main/%E5%9B%BE%E5%BA%93/0-%E6%88%90%E6%9E%9C%E5%B1%95%E7%A4%BA-%E6%9C%BA%E4%BD%8D2.mp4" width=49%>
