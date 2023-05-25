@@ -111,3 +111,7 @@
 > 1. 摄像头的信号。开发新的模块时，注意场同步信号vsync是低电平有效，而行同步信号href和行有效信号clken都是高电平有效。并且clken和href左对齐，且clken每两个时钟周期才有效一次（这是因为摄像头一次只能传输8bit数据，但是一个像素的数据为RGB565共16bit）。
 > 2. 卡了很久的bug：上电后画面总是停留在第一帧，然后就不动了。原来是没有给模块输入正常的时钟信号...
 > 3. 奇怪的硬件bug：上电后工作完全正常，但是过个两三分钟画面就会卡住不动了。最后我也不知道咋回事，打算第二天再看，结果第二天这个问题就突然好了。:joy:
+
+最后放一下成果展示：
+<img src="https://raw.githubusercontent.com/jjejdhhd/License-Plate-Recognition-FPGA/main/%E5%9B%BE%E5%BA%93/0-成果展示-机位1.mp4" width=49%>
+<img src="https://raw.githubusercontent.com/jjejdhhd/License-Plate-Recognition-FPGA/main/%E5%9B%BE%E5%BA%93/0-成果展示-机位2.mp4" width=49%>
